@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narmathaajb&label=Profile%20views&color=0e75b6&style=flat" alt="narmathaajb" /> </p>
 
+Hello! I'm a frontend developer and AI enthusiast currently in my third year of college, specializing in Artificial Intelligence. My passion lies in merging the worlds of machine learning and user-centered design to create innovative, impactful solutions. With experience in HTML, CSS, React, Flutter, and a strong foundation in machine learning concepts, I enjoy building intuitive interfaces and smart applications.
+
 - 🔭 I’m currently working on *React JS*
 
-- 🌱 I’m currently learning *Frontend Technology*
+- 🌱 I’m currently learning *Generative AI*
 
 - 👯 I’m looking to collaborate on *AIML*
 
-- 💬 Ask me about *react*
-
-- 📫 How to reach me *balanarmathaa@gmail.com*
+- 📫 You can contact me at *balanarmathaa@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
