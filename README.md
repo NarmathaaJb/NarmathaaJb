@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Frontend Developer and AI Enthusiast
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narmathaajb&label=Profile%20views&color=0e75b6&style=flat" alt="narmathaajb" /> </p>
+
 
 I'm a Full Stack Developer with a Passion for AI and User-Centric Innovation, currently in my third year of college, specializing in Artificial Intelligence. Turning ideas into reality is my thing - whether it's crafting intelligent AI solutions or designing seamless user experiences. I’m all about merging tech and creativity to build tools that make a difference. My passion lies in merging the worlds of machine learning and user-centered design to create innovative, impactful solutions. With experience in HTML, CSS, React, Flutter, and a strong foundation in machine learning concepts, I enjoy building intuitive interfaces and smart applications.
 
